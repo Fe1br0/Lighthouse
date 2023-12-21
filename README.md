@@ -35,4 +35,4 @@ BSD
 Author Information
 ------------------
 
-Tokhir
+Andrey
